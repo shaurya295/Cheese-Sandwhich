@@ -1,4 +1,4 @@
-# Cheese-Sandwhich
+# recipe
 
 The recipe to make a Cheese Sandwhich is-
 Step 1- Turn on the toaster for a minute so that it heats up.
